@@ -1,0 +1,25 @@
+﻿.panel-body
+{
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#D3D3D3), to(#F5F5F5));
+}
+#page-wrapper
+{
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFAFA), to(#FFFAFA));
+}
+.div_staff_status
+{
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#99FF66), to(#CCFF66));
+}
+.panel-heading
+{
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#EEE5DE), to(#CDC5BF));
+}
+#div_menu
+{
+    background-color:#CCFF66;
+}
+#field
+{
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFAFA), to(#EEE9E9));
+}
+
